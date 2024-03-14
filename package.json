@@ -1,0 +1,27 @@
+{
+  "name": "totalsum",
+  "version": "1.0.0",
+  "description": "Calculate sum for numeric data sets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "aliaz-totalize": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariansurdu112/totalsum.git"
+  },
+  "homepage": "https://github.com/mariansurdu112/totalsum/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "mariansurdu112",
+  "license": "MIT"
+}
